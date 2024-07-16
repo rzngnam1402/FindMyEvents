@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Music Festival",
+      "date": "2024-08-15",
+      "description": "Join us for an exciting music festival featuring top artists.",
+      "image": "src/assets/images/event1.png"
+    },
+    {
+      "id": 2,
+      "title": "Tech Conference",
+      "date": "2024-09-10",
+      "description": "Learn about the latest in technology at this premier conference.",
+      "image": "src/assets/images/event2.png"
+    },
+    {
+      "id": 3,
+      "title": "Art Exhibition",
+      "date": "2024-07-20",
+      "description": "Experience a stunning display of art from local and international artists.",
+      "image": "src/assets/images/event3.png"
+    },
+    {
+      "id": 4,
+      "title": "Food Festival",
+      "date": "2024-08-22",
+      "description": "Taste the best foods from around the world at our food festival.",
+      "image": "src/assets/images/event4.png"
+    },
+    {
+      "id": 5,
+      "title": "Book Fair",
+      "date": "2024-09-05",
+      "description": "Discover new books and meet your favorite authors at our book fair.",
+      "image": "src/assets/images/event5.png"
+    }
+  ]
+}
